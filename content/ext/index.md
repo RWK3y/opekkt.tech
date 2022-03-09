@@ -8,5 +8,5 @@ showAuthor: false
 ---
 
 1. Personal productivity platform <a href="https://nc.opekkt.tech/" target="_blank">nc.opekkt.tech</a>
-2. Personal site <a href="https://opekktar.online/" target="_blank">opekktar.online</a>
-3. Personal blog <a href="https://blog.opekktar.online/" target="_blank">blog.opekktar.online</a>
+2. MKDocs site <a href="https://titania.opekkt.tech/" target="_blank">docs.opekkt.tech</a>
+3. Personal site and blog <a href="https://opekktar.online/" target="_blank">opekktar.online</a>
