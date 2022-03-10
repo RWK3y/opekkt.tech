@@ -60,7 +60,7 @@ echo ======================================
   permit nopass keepenv :wheel
   ```
 
-3. Turn off password authentication and root user login by adding to the end of `/etc/ssh/sshd_connfig`
+3. Turn off password authentication and root user login by adding to the end of `/etc/ssh/sshd_config`
 
   ```
   PermitRootLogin no

@@ -122,7 +122,7 @@ The file permissions for the regular user in caddy will need to be fixed
 doas bastille console caddy
 chown -R user:group /home/user
 ```
-Also since I am no longer using the WireGuard VPN to hit the Nextcloud instance at home I will need to change the Cadddy File in the caddy jail to reflect this. 
+Also since I am no longer using the WireGuard VPN to hit the Nextcloud instance at home I will need to change the Caddy File in the caddy jail to reflect this. 
 ```
 vi /usr/local/etc/caddy/Caddyfile
 ```
