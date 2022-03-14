@@ -3,6 +3,8 @@ title: "Build Opekkt Tech"
 date: 2022-03-02T06:31:37-07:00
 draft: false
 description: "Build Opekkt Tech"
+type: "posts"
+geekdocHidden: true
 ---
 Matching blog post to [Build Opekkt Tech](/docs/buildopekkttech) in [Docs](/docs/)
 

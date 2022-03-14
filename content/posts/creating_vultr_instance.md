@@ -3,6 +3,8 @@ title: Creating Vultr Instance
 date: 2022-03-08T14:59:36.000Z
 draft: false
 description: Creating_Instance
+type: "posts"
+geekdocHidden: true
 ---
 
 Matching blog post to [Creating Vultr Instance](/docs/vps_migration/creating_vultr_instance) in [Docs](/docs/)

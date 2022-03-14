@@ -3,6 +3,8 @@ title: Going to jail
 date: 2022-03-08T23:26:06.000Z
 draft: false
 description: ''
+type: "posts"
+geekdocHidden: true
 ---
 Matching blog post to [Going to jail](/docs/vps_migration/going2jail) in [Docs](/docs/)
 
